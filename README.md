@@ -23,6 +23,21 @@
 
 ---
 
+## 📖 Project Description
+**SocialRAG** is the first deterministic video intelligence platform built specifically for the high-frequency content economy. While traditional RAG systems struggle with temporal context and fragmented data, SocialRAG introduces a **State-Machine Architecture** that treats video transcripts as living timelines. 
+
+It enables creators to perform "Temporal Comparison"—analyzing how a hook in a 15-second YouTube Short compares to a 60-second Instagram Reel—by grounding every AI response in sub-second transcript segments. By combining **Groq's ultra-low latency inference** with **local vector generation**, SocialRAG delivers a production-grade strategist that is fast, free to scale, and contextually bulletproof.
+
+## 🎬 Project Demo
+> [!IMPORTANT]
+> **Click the image below** to watch the full technical walkthrough and performance demo of SocialRAG.
+
+[![SocialRAG Demo](https://img.youtube.com/vi/placeholder/0.jpg)](https://www.loom.com/share/your-loom-link-here)
+
+*The demo covers: Side-by-side ingestion, real-time metadata extraction, and multi-turn strategic chat analysis.*
+
+---
+
 ## 📉 The Problem
 Content creators currently fly blind when comparing platforms. 
 - **Fragmented Data**: Metrics for YouTube and Instagram live in different worlds.
